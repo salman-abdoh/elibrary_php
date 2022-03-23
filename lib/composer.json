@@ -1,0 +1,15 @@
+{
+    "name": "mc/lib",
+    "autoload": {
+        "psr-4": {
+            "Mc\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "salman-abdoh",
+            "email": "80646924+salman-abdoh@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
